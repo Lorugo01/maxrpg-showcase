@@ -10,8 +10,10 @@
   <img src="docs/ficha-desktop.jpg" width="100%" alt="Ficha de personagem no desktop"/>
 </p>
 <p align="center">
-  <img src="docs/mesa-tempo-real.jpg" width="62%" alt="Mesa em tempo real com rolagens compartilhadas"/>
-  <img src="docs/ficha-mobile.jpg" width="36%" alt="Ficha no celular"/>
+  <img src="docs/mesa-tempo-real.jpg" width="100%" alt="Mesa em tempo real com rolagens compartilhadas"/>
+</p>
+<p align="center">
+  <img src="docs/ficha-mobile.jpg" width="100%" alt="Ficha no celular"/>
 </p>
 
 ---
